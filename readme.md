@@ -1,4 +1,4 @@
-## How to Run : (Python 3.8.5)
+# How to Run : (Python 3.8.5)
 
 To run the code for face mask detection, follow these steps:
  
