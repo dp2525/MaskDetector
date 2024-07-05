@@ -1,3 +1,23 @@
+## How to Run : (Python 3.8.5)
+
+To run the code for face mask detection, follow these steps:
+ 
+1. Clone the repository to your local machine:
+
+    ```
+    git clone https://github.com/dp2525/MaskDetector.git
+    ```
+
+2. Install the required dependencies:
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+3. The script will output the predicted labels for each detected face in the image.
+
+That's it! You can now run the code for face mask detection using the provided instructions.
+
 # Face Mask Detection using MobileNetV2
 
 This repository contains the code and resources for training a face mask detection model using the MobileNetV2 architecture.
